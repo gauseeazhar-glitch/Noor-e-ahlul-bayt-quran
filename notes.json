@@ -1,0 +1,558 @@
+{
+ "status": "Editorial summaries written for this platform. They report which classical works discuss each verse and what position those works take. They do not quote any Imam. Wording of narrations appears only in the Narrations panel, verbatim from thaqalayn.net. Every summary is pending review by a qualified scholar of the Shia Ithna Ashari tradition before public release.",
+ "notes": [
+  {
+   "ref": "1:1",
+   "title": "Bismillah is a verse of every surah",
+   "summary": "Exegetes of the Ahlul Bayt school hold that 'In the Name of Allah, the All-beneficent, the All-merciful' is a verse of al-Fatiha and of every surah except al-Tawba, and that it is recited aloud as part of the surah in prayer. Allama Tabatabai discusses the meaning of beginning every act in the Name of Allah at the opening of al-Mizan.",
+   "context": "Not tied to a single occasion of revelation.",
+   "sources": [
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Sayyid Muhammad Husayn Tabatabai",
+     "location": "Commentary on 1:1",
+     "volume": "1",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "Shaykh al-Fadl ibn al-Hasan al-Tabrisi",
+     "location": "Commentary on 1:1",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "27:30",
+    "9:1"
+   ]
+  },
+  {
+   "ref": "1:6",
+   "title": "The Straight Path",
+   "summary": "Narration-based tafsir collections of the Ahlul Bayt school record reports that explain 'the straight path' as the path of recognising and following the Imam of guidance, and that name Amir al-Mu'minin Ali (AS) in this connection. Tafsir Nur al-Thaqalayn gathers these reports under this verse with their original sources.",
+   "context": "Not tied to a single occasion of revelation.",
+   "sources": [
+    {
+     "work": "Tafsir Nur al-Thaqalayn",
+     "ar": "تفسير نور الثقلين",
+     "author": "Shaykh Abd Ali ibn Jumu'a al-Huwayzi",
+     "location": "Narrations under 1:6",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Tafsir al-Qummi",
+     "ar": "تفسير القمي",
+     "author": "Ali ibn Ibrahim al-Qummi",
+     "location": "Commentary on al-Fatiha",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Ma'ani al-Akhbar",
+     "ar": "معاني الأخبار",
+     "author": "Shaykh al-Saduq",
+     "location": "Chapter on the meaning of al-sirat",
+     "verified": "work-only"
+    }
+   ],
+   "related": [
+    "6:153",
+    "36:61",
+    "43:43"
+   ]
+  },
+  {
+   "ref": "2:207",
+   "title": "Laylat al-Mabit: the night Imam Ali (AS) slept in the Prophet's bed",
+   "summary": "Shia exegetes report that this verse was revealed about Imam Ali (AS), who slept in the bed of the Prophet (PBUH) on the night of the migration to Madina so that the Prophet could leave Makka safely, offering his own life to seek the pleasure of Allah.",
+   "context": "The night of the Hijra, when the Quraysh had surrounded the Prophet's house.",
+   "sources": [
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "Shaykh al-Fadl ibn al-Hasan al-Tabrisi",
+     "location": "Commentary on 2:207",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 2:207 (narrations section)",
+     "volume": "2",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "8:30",
+    "9:111"
+   ]
+  },
+  {
+   "ref": "3:61",
+   "title": "Al-Mubahala",
+   "summary": "For the mutual imprecation with the Christian delegation of Najran, the Prophet (PBUH) brought only Ali, Fatima, al-Hasan and al-Husayn (AS). Ahlul Bayt exegetes read 'our sons' as al-Hasan and al-Husayn, 'our women' as Fatima, and 'ourselves' as Imam Ali (AS), and treat the verse as evidence of their distinction. Imam al-Rida (AS) cited this verse in his debate recorded in Uyun Akhbar al-Rida.",
+   "context": "The visit of the Christian delegation of Najran to Madina, in the later years of the Prophet's mission.",
+   "sources": [
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 3:61",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on 3:61",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Uyun Akhbar al-Rida",
+     "ar": "عيون أخبار الرضا",
+     "author": "Shaykh al-Saduq",
+     "location": "Imam al-Rida's debate with al-Ma'mun; see the Narrations panel",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "Sahih Muslim (corroborating Sunni source)",
+     "ar": "صحيح مسلم",
+     "author": "Muslim ibn al-Hajjaj",
+     "location": "Book of the Virtues of the Companions, narration of Sa'd ibn Abi Waqqas",
+     "verified": "work-only"
+    }
+   ],
+   "related": [
+    "33:33",
+    "42:23",
+    "76:8"
+   ]
+  },
+  {
+   "ref": "4:59",
+   "title": "Those vested with authority (Uli al-Amr)",
+   "summary": "In the Ahlul Bayt school, obedience to 'those vested with authority' is joined to obedience to Allah and the Messenger without condition, which exegetes take to require infallible holders of authority: the twelve Imams (AS). Al-Kafi gathers narrations on this verse in the Book of the Divine Proof, in the chapter on the obligation to obey the Imams.",
+   "context": "Not tied to a single occasion in the Ahlul Bayt reports; discussed as a general principle of authority.",
+   "sources": [
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "Thiqat al-Islam al-Kulayni",
+     "location": "Kitab al-Hujja, chapter on the obligation to obey the Imams",
+     "volume": "1",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 4:59",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Tafsir al-Ayyashi",
+     "ar": "تفسير العياشي",
+     "author": "Muhammad ibn Mas'ud al-Ayyashi",
+     "location": "Narrations under 4:59",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "5:55",
+    "4:83",
+    "16:43"
+   ]
+  },
+  {
+   "ref": "5:3",
+   "title": "The perfection of the religion",
+   "summary": "Narrations of the Ahlul Bayt school report that 'Today I have perfected your religion for you' was revealed at Ghadir Khumm after the Prophet (PBUH) proclaimed Imam Ali (AS) as guardian of the believers. Allama Tabatabai argues from the structure of the verse that 'today' marks an event that ended the hopes of the disbelievers, which he identifies with the appointment of a successor.",
+   "context": "The return from the Farewell Pilgrimage, 10 AH, at Ghadir Khumm (18 Dhu al-Hijja in the Shia reports).",
+   "sources": [
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 5:3",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on 5:3",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "Kitab al-Hujja; see the Narrations panel",
+     "volume": "1",
+     "verified": "dataset-linked"
+    }
+   ],
+   "related": [
+    "5:67",
+    "5:55"
+   ]
+  },
+  {
+   "ref": "5:55",
+   "title": "Ayat al-Wilayah",
+   "summary": "Exegetes of the Ahlul Bayt school report that this verse was revealed when Imam Ali (AS) gave his ring in charity to a beggar while in the state of ruku' in prayer. They read 'your guardian' (waliyyukum) as guardianship and authority, held by Allah, the Messenger and Imam Ali (AS), and then by the Imams from his progeny.",
+   "context": "In the Mosque of the Prophet in Madina, when a man asked for charity and Imam Ali (AS) gave his ring during ruku'.",
+   "sources": [
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on 5:55",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 5:55-56",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "Kitab al-Hujja; see the Narrations panel",
+     "volume": "1",
+     "verified": "dataset-linked"
+    }
+   ],
+   "related": [
+    "4:59",
+    "5:67",
+    "9:71"
+   ]
+  },
+  {
+   "ref": "5:67",
+   "title": "Ayat al-Tabligh",
+   "summary": "Ahlul Bayt sources report that this command to convey what had been sent down was revealed during the return from the Farewell Pilgrimage, and that the Prophet (PBUH) then stopped at Ghadir Khumm and declared 'Of whomever I am master, Ali is his master'. Al-Kafi records narrations on this in the chapter on the explicit designation of Amir al-Mu'minin (AS).",
+   "context": "The Farewell Pilgrimage, 10 AH, before the gathering at Ghadir Khumm.",
+   "sources": [
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "Kitab al-Hujja, chapter on the designation of Amir al-Mu'minin; see the Narrations panel",
+     "volume": "1",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 5:67",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on 5:67",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "5:3",
+    "5:55"
+   ]
+  },
+  {
+   "ref": "9:119",
+   "title": "Be with the truthful",
+   "summary": "Narration collections of the Ahlul Bayt school record reports that identify 'the truthful' whom the believers are commanded to be with as the Prophet's family, the Imams (AS). Since the command is unconditional, exegetes argue it points to people whose truthfulness is complete.",
+   "context": "Revealed after the expedition of Tabuk (9 AH), following the account of the three who stayed behind.",
+   "sources": [
+    {
+     "work": "Tafsir Nur al-Thaqalayn",
+     "ar": "تفسير نور الثقلين",
+     "author": "al-Huwayzi",
+     "location": "Narrations under 9:119",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 9:119",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "9:118",
+    "33:23"
+   ]
+  },
+  {
+   "ref": "13:7",
+   "title": "For every people there is a guide",
+   "summary": "Narrations in al-Kafi explain that the Prophet (PBUH) is the warner and that in every age there is a guide from the Imams (AS), beginning with Imam Ali (AS). Al-Kafi has a chapter titled 'The Imams are the guides' built on this verse.",
+   "context": "Makki verse answering the demand of the disbelievers for a sign.",
+   "sources": [
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "Kitab al-Hujja, chapter 'The Imams (AS) are the guides'; see the Narrations panel",
+     "volume": "1",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 13:7",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "35:24",
+    "21:73"
+   ]
+  },
+  {
+   "ref": "16:43",
+   "title": "Ask the People of the Reminder (Ahl al-Dhikr)",
+   "summary": "Narrations in al-Kafi identify 'the reminder' with the Prophet (PBUH) or the Quran and 'the people of the reminder' with the Imams of the Ahlul Bayt (AS), who are to be asked. Al-Kafi devotes a chapter in the Book of the Divine Proof to this verse.",
+   "context": "Makki verse answering the objection that a messenger should not be a man.",
+   "sources": [
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "Kitab al-Hujja, chapter on Ahl al-Dhikr; see the Narrations panel",
+     "volume": "1",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 16:43",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "21:7",
+    "65:10",
+    "43:44"
+   ]
+  },
+  {
+   "ref": "17:26",
+   "title": "Give the relative his due",
+   "summary": "Shia exegetes report that when this verse was revealed the Prophet (PBUH) gave Fadak to Sayyida Fatima al-Zahra (AS). The report is recorded in narration-based tafsir works and discussed in Majma' al-Bayan.",
+   "context": "The Shia reports place the gift of Fadak after the conquest of Khaybar (7 AH).",
+   "sources": [
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on 17:26",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Tafsir al-Ayyashi",
+     "ar": "تفسير العياشي",
+     "author": "al-Ayyashi",
+     "location": "Narrations under 17:26",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Tafsir al-Qummi",
+     "ar": "تفسير القمي",
+     "author": "Ali ibn Ibrahim al-Qummi",
+     "location": "Commentary on 17:26",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "30:38",
+    "59:7",
+    "8:41"
+   ]
+  },
+  {
+   "ref": "33:33",
+   "title": "Ayat al-Tathir (the verse of purification)",
+   "summary": "Ahlul Bayt exegetes hold that 'the People of the House' in this verse are the five gathered under the cloak (Hadith al-Kisa): the Prophet (PBUH), Ali, Fatima, al-Hasan and al-Husayn (AS), and that the verse establishes their purity from all sin. Allama Tabatabai argues that the change to masculine plural pronouns sets this passage apart from the address to the Prophet's wives around it.",
+   "context": "Reported to have been revealed in the house of Umm Salama, when the Prophet (PBUH) covered the four with his cloak.",
+   "sources": [
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 33:33",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on 33:33",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "Kitab al-Hujja; see the Narrations panel",
+     "volume": "1",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "Sahih Muslim (corroborating Sunni source)",
+     "ar": "صحيح مسلم",
+     "author": "Muslim ibn al-Hajjaj",
+     "location": "Book of the Virtues of the Companions, narration of A'isha on the cloak",
+     "verified": "work-only"
+    }
+   ],
+   "related": [
+    "3:61",
+    "42:23",
+    "76:8"
+   ]
+  },
+  {
+   "ref": "42:23",
+   "title": "Love of the near kin (Ayat al-Mawadda)",
+   "summary": "Ahlul Bayt exegetes read 'love of the near kin' as love of the Prophet's family, Ali, Fatima, al-Hasan and al-Husayn (AS), asked of the believers as the only reward for conveying the message. Related verses (25:57, 34:47) explain that this reward is in fact for the believers' own benefit, as a path to Allah.",
+   "context": "Discussed by the exegetes in connection with the Madinan community; reports differ on the occasion.",
+   "sources": [
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 42:23",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on 42:23",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "See the Narrations panel",
+     "verified": "dataset-linked"
+    }
+   ],
+   "related": [
+    "25:57",
+    "34:47",
+    "33:33"
+   ]
+  },
+  {
+   "ref": "76:8",
+   "title": "Surah al-Insan (Hal Ata): feeding the needy, the orphan and the captive",
+   "summary": "Ahlul Bayt sources report that verses 76:5-22 were revealed about Ali, Fatima, al-Hasan and al-Husayn (AS) and their servant Fidda, who fasted three days to fulfil a vow and each evening gave away their only food to a needy person, an orphan and a captive. Al-Amali of Shaykh al-Saduq records the account; see the Narrations panel.",
+   "context": "After the recovery of al-Hasan and al-Husayn (AS) from illness, for which the family had vowed to fast.",
+   "sources": [
+    {
+     "work": "al-Amali",
+     "ar": "الأمالي",
+     "author": "Shaykh al-Saduq",
+     "location": "See the Narrations panel",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on Surah 76",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on 76:5-22",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Tafsir al-Qummi",
+     "ar": "تفسير القمي",
+     "author": "Ali ibn Ibrahim al-Qummi",
+     "location": "Commentary on Surah 76",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "76:9",
+    "2:274",
+    "90:14"
+   ]
+  },
+  {
+   "ref": "97:1",
+   "title": "The Night of Qadr and the Imam of the time",
+   "summary": "Narrations in al-Kafi explain that the angels and the Spirit descend on the Night of Qadr every year with the decree of every matter, and that this descent continues after the Prophet (PBUH) to the Imams (AS). Al-Kafi has a dedicated chapter on Surah al-Qadr and its interpretation.",
+   "context": "Not tied to a single event; the narrations discuss the continuing Night of Qadr.",
+   "sources": [
+    {
+     "work": "al-Kafi",
+     "ar": "الكافي",
+     "author": "al-Kulayni",
+     "location": "Kitab al-Hujja, chapter on 'Inna anzalnahu fi laylat al-qadr' and its interpretation; see the Narrations panel",
+     "volume": "1",
+     "verified": "dataset-linked"
+    },
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on Surah 97",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "44:3",
+    "44:4",
+    "2:185"
+   ]
+  },
+  {
+   "ref": "108:1",
+   "title": "Al-Kawthar",
+   "summary": "Allama Tabatabai argues that al-Kawthar, 'abundant good', includes the Prophet's numerous progeny through Sayyida Fatima (AS), since the surah answers the taunt that the Prophet was 'cut off' (abtar) without male heirs.",
+   "context": "Revealed in Makka after the death of the Prophet's son, when an opponent called him 'abtar'.",
+   "sources": [
+    {
+     "work": "al-Mizan fi Tafsir al-Qur'an",
+     "ar": "الميزان في تفسير القرآن",
+     "author": "Allama Tabatabai",
+     "location": "Commentary on Surah 108",
+     "verified": "work-and-verse"
+    },
+    {
+     "work": "Majma' al-Bayan fi Tafsir al-Qur'an",
+     "ar": "مجمع البيان في تفسير القرآن",
+     "author": "al-Tabrisi",
+     "location": "Commentary on Surah 108",
+     "verified": "work-and-verse"
+    }
+   ],
+   "related": [
+    "108:3",
+    "93:5"
+   ]
+  }
+ ]
+}
