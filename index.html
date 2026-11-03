@@ -309,7 +309,28 @@ const set = DB.settings;
 /* ---------- data ---------- */
 const D = { meta: null, cat: null, ar: null, search: null, tl: null, eds: {}, notes: null, notesBy: {}, related: null, topics: null, links: {}, buckets: {}, nahj: null, library: null };
 const cache = {};
-const getJSON = (url) => cache[url] || (cache[url] = fetch(url).then(r => { if (!r.ok) throw new Error(r.status + " " + url); return r.json(); }).catch(e => { delete cache[url]; throw e; }));
+/* Data packs: the whole data/ folder compressed into two flat files (noor-core.bin,
+   noor-hadith.bin) so the site can be hosted as files with no sub-folders.
+   If a pack is absent the app falls back to the individual files under data/. */
+const PACKS = { core: "noor-core.bin", hadith: "noor-hadith.bin" };
+const packData = {}, packP = {};
+function loadPack(name) {
+  return packP[name] || (packP[name] = (async () => {
+    try {
+      const r = await fetch(PACKS[name]);
+      if (!r.ok || !("DecompressionStream" in window)) return false;
+      const txt = await new Response(r.body.pipeThrough(new DecompressionStream("gzip"))).text();
+      Object.assign(packData, JSON.parse(txt)); return true;
+    } catch { return false; }
+  })());
+}
+const getJSON = (url) => cache[url] || (cache[url] = (async () => {
+  if (url.startsWith("data/")) {
+    await loadPack(/^data\/hadith\/(b\/|nahj)/.test(url) ? "hadith" : "core");
+    if (url in packData) return packData[url];
+  }
+  const r = await fetch(url); if (!r.ok) throw new Error(r.status + " " + url); return r.json();
+})().catch(e => { delete cache[url]; throw e; }));
 
 const RECITERS = [
   ["Alafasy_128kbps", "Mishary Rashid Alafasy"],
@@ -956,7 +977,7 @@ async function boot() {
   applyTheme(); applyType();
   try {
     [D.meta, D.cat, D.ar, D.notes, D.related, D.topics, D.library, D.books] = await Promise.all(["data/meta.json", "data/catalogue.json", "data/t/ara-uthmani.json", "data/ahlulbayt/notes.json", "data/related.json", "data/topics.json", "data/ahlulbayt/library.json", "data/hadith/books.json"].map(getJSON));
-  } catch (e) { app.innerHTML = `<p class="notice"><b>The Quran data could not be loaded</b> (${esc(e.message)}).<br>The <code>data</code> folder must sit next to <code>index.html</code> on the server, with all its sub-folders. If you opened the file directly from your computer, serve the folder over HTTP instead, for example with <code>python3 -m http.server</code>.</p>`; return; }
+  } catch (e) { app.innerHTML = `<p class="notice"><b>The Quran data could not be loaded</b> (${esc(e.message)}).<br>Upload <code>noor-core.bin</code> and <code>noor-hadith.bin</code> to the same place as <code>index.html</code> (the top level of the repository, no folders needed). If you opened the file directly from your computer, serve the folder over HTTP instead, for example with <code>python3 -m http.server</code>.</p>`; return; }
   D.notes.notes.forEach(n => D.notesBy[n.ref] = n);
   buildLangSelect();
   addEventListener("hashchange", route);
